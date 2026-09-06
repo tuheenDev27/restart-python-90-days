@@ -1,0 +1,9 @@
+Create variables storing an integer, float, string, and boolean.
+
+Convert the string "123" into an integer, then add 5 to it.
+
+Write a script to swap the values of two variables without using a third temporary variable.
+
+Extract the first and last character of the string "Programming" using indexing.
+
+Format a string to output "My name is [name] and I am [age]" using f-strings.
