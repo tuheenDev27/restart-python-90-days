@@ -1,0 +1,9 @@
+Write an if/elif/else block that checks if a user-provided number is positive, negative, or zero.
+
+Create a for loop that prints all even numbers from 1 to 20.
+
+Use a while loop to sum the individual digits of a given integer.
+
+Iterate through the string "Python" and print each character on a new line.
+
+Write a loop that uses break when it hits a multiple of 7, and continue to skip multiples of 3.
