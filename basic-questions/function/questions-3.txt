@@ -1,0 +1,7 @@
+Define a function that takes two numbers and returns their product.
+
+Write a function with a default parameter (e.g., def greet(name, greeting="Hello")).
+
+Create a function that checks whether a given string is a palindrome.
+
+Write a function accepting an arbitrary number of arguments (*args) that returns their average.
