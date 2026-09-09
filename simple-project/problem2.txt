@@ -1,0 +1,11 @@
+3. Mixed Data Type Sorter
+
+Create a list with mixed data types: items = [10, "Hello", 3.14, True, 42, "World", False].
+
+Create three empty lists: strings, numbers (for ints and floats), and booleans.
+
+Loop through the items list.
+
+Use the type() function and if/elif/else statements to append each item to its corresponding list. (Note: In Python, bool is a subclass of int, so check for booleans first).
+
+Print the three sorted lists.

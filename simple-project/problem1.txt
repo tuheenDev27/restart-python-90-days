@@ -1,0 +1,11 @@
+The Vowel Counter
+
+Create a string variable containing a sentence (e.g., text = "Teaching Python is rewarding").
+
+Create an integer variable vowel_count initialized to 0.
+
+Write a loop to iterate through every character in the string.
+
+Use an if statement to check if the lowercase version of the character is in the string "aeiou". If it is, increment the counter by 1.
+
+Print the final integer count.

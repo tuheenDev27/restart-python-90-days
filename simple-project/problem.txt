@@ -1,0 +1,11 @@
+. The Classic "FizzBuzz"
+
+Create a for loop that iterates from 1 to 50.
+
+If the current number is cleanly divisible by 3, print the string "Fizz".
+
+If the number is divisible by 5, print "Buzz".
+
+If the number is divisible by both 3 and 5, print "FizzBuzz".
+
+If none of these conditions are met, print the integer itself.
